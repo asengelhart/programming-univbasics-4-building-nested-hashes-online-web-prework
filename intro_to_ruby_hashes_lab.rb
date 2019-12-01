@@ -27,7 +27,7 @@ def monopoly_with_third_tier
     :four_pieces_owned => 200
   }
   rail_hash[:railroads][:names] = {
-    :rail1 => nil,
+    :reading_railroad => nil,
     :rail2 => nil,
     :rail3 => nil,
     :rail4 => nil 
