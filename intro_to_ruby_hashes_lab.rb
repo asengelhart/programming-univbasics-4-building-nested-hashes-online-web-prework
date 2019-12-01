@@ -28,7 +28,7 @@ def monopoly_with_third_tier
   }
   rail_hash[:railroads][:names] = {
     :reading_railroad => {},
-    :rail2 => nil,
+    :pennsylvania_railroad => {},
     :rail3 => nil,
     :rail4 => nil 
   }
