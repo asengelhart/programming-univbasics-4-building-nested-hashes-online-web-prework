@@ -30,7 +30,7 @@ def monopoly_with_third_tier
     :reading_railroad => {},
     :pennsylvania_railroad => {},
     :b_and_o_railroad => {},
-    :rail4 => nil 
+    :shortline_railroad => {} 
   }
   rail_hash
 end
