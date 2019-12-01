@@ -26,6 +26,7 @@ def monopoly_with_third_tier
     :c => 0,
     :d => 0
   }
+  rail_hash[:railroads][:names] = nil
   rail_hash
 end
 
