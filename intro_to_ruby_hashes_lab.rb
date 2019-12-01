@@ -30,7 +30,7 @@ def monopoly_with_third_tier
     :rail1 => nil,
     :rail2 => nil,
     :rail3 => nil,
-    :rail4 => nil s
+    :rail4 => nil 
   }
   rail_hash
 end
